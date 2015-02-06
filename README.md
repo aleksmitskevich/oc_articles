@@ -1,2 +1,2 @@
 # oc_articles
-module "articles" for ocstore
+module "articles" for ocstore description
